@@ -1,4 +1,7 @@
-# test coverage for  [bindings (v1.2.1)](https://github.com/TooTallNate/node-bindings)  [![npm package](https://img.shields.io/npm/v/npmtest-bindings.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bindings) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bindings.svg)](https://travis-ci.org/npmtest/node-npmtest-bindings)
+# npmtest-bindings
+
+#### basic test coverage for  [bindings (v1.2.1)](https://github.com/TooTallNate/node-bindings)  [![npm package](https://img.shields.io/npm/v/npmtest-bindings.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bindings) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bindings.svg)](https://travis-ci.org/npmtest/node-npmtest-bindings)
+
 #### Helper module for loading your native module's .node file
 
 [![NPM](https://nodei.co/npm/bindings.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bindings)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-bindings/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-bindings/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-bindings/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-bindings/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bindings/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bindings/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-bindings/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-bindings/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bindings/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bindings/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-bindings/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-bindings/build/coverage.html/index.html)
 
@@ -75,7 +78,8 @@
         "url": "git://github.com/TooTallNate/node-bindings.git"
     },
     "scripts": {},
-    "version": "1.2.1"
+    "version": "1.2.1",
+    "bin": {}
 }
 ```
 
